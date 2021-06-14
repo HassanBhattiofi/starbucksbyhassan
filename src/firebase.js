@@ -1,13 +1,13 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDFPOEapzE2otnYAjcgGRf-gc7tbK0MX00',
-  authDomain: 'starbucks-clone.firebaseapp.com',
-  projectId: 'starbucks-clone',
-  storageBucket: 'starbucks-clone.appspot.com',
-  messagingSenderId: '852007719923',
-  appId: '1:852007719923:web:4c57f4ef9782f81026f886',
-}
+  apiKey: "AIzaSyBVPQOqEI3_npdaDqjdw5rwEyXr5fcQxYY",
+  authDomain: "starbucks-b69c6.firebaseapp.com",
+  projectId: "starbucks-b69c6",
+  storageBucket: "starbucks-b69c6.appspot.com",
+  messagingSenderId: "803783595908",
+  appId: "1:803783595908:web:173213785cd614c687afd1"
+};
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
 
