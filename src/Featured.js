@@ -1,6 +1,6 @@
-import React from 'react'
-import './Featured.css'
-import { Link } from 'react-router-dom'
+import React from "react";
+import "./Featured.css";
+import { Link } from "react-router-dom";
 
 function Featured({
   title,
@@ -26,7 +26,7 @@ function Featured({
         <img src={image} alt='' />
       </div>
     </div>
-  )
+  );
 }
 
-export default Featured
+export default Featured;
